@@ -21,6 +21,8 @@ body {
 
 }
 
+
+
 :root {
 
     /**
@@ -99,6 +101,13 @@ body {
     --fontFamily-noto_sans: 'Noto Sans', sans-serif;  
   
   }
+
+  .image{
+    /* border:1px solid red; */
+    display: block;
+    margin:auto;
+    width:50%;
+ }
 
   section {
     min-height: 100vh;
@@ -714,6 +723,8 @@ span {
 margin-bottom: 3rem;
 }
 
+
+
 .project-container {
   grid-template-columns: repeat(1, 1fr);
 }
@@ -767,3 +778,7 @@ margin: 20px;
     .shape-2 { left: 60px; }
 
   }
+
+
+
+
