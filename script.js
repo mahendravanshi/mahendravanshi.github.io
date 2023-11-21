@@ -22,7 +22,7 @@ let resume2 = document.getElementById("resume-button-2").addEventListener("click
 
 function NewTab() {
   window.open(
-    "https://drive.google.com/file/d/1BXCdNHK2bdPZGqoTjykN9di6HsoOwvkY/view?usp=share_link",
+    "../Mahendra-Chandravanshi-Resume.pdf",
     "_blank"
   );
 }
