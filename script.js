@@ -21,10 +21,7 @@ let resume1 = document.getElementById("resume-button-1").addEventListener("click
 let resume2 = document.getElementById("resume-button-2").addEventListener("click", NewTab)
 
 function NewTab() {
-  window.open(
-    "../Mahendra-Chandravanshi-Resume.pdf",
-    "_blank"
-  );
+  window.open("Mahendra_Chandravanshi_Full_Stack_Java.pdf", "_blank");
 }
 
 // *=============================== scroll sections active link ==================================
